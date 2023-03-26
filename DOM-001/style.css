@@ -1,0 +1,11 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50vh;
+}
+.btn {
+  padding: 16px 32px;
+  border: none;
+  border-radius: 8px;
+}
