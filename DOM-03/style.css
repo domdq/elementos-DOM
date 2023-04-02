@@ -1,0 +1,28 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: white;
+}
+.btn {
+  padding: 16px 32px;
+  border: none;
+  border-radius: 8px;
+  background: black;
+  color: white;
+}
+.bodydark {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: black;
+}
+.btn-dark {
+  padding: 16px 32px;
+  border: none;
+  border-radius: 8px;
+  background: white;
+  color: black;
+}
